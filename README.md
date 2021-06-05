@@ -5,8 +5,8 @@ If you let the system running without network after a while, raspberry internal 
 
 The best is to use a small electronic addon (5$) for givin raspberry a RTC (based on chip DS1307)
 
-![](https://raw.githubusercontent.com/wareck/rtc_pi_addon/master/pics/rtc.png)
-![](https://raw.githubusercontent.com/wareck/rtc_pi_addon/master/pics/rtc_rpi.png)
+![](https://raw.githubusercontent.com/wareck/rtc_pi_addon/main/pics/rtc.png)
+![](https://raw.githubusercontent.com/wareck/rtc_pi_addon/main/pics/rtc_rpi.png)
 
 How to install (software side) :
 Script will install libraries, enable i2c connections.
